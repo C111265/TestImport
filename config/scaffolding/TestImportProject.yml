@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestImportProject
+  gitServerName: UU_wM_Cloud_MLE
+  gitUrl: https://github.com/C111265/TestImportProject
+  gitUsername: C111265
+  gitBranch: main
